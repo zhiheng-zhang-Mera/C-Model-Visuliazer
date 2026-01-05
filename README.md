@@ -23,8 +23,7 @@
 See it in action. Watch the rotation and lighting.
 点击观看动态演示，注意旋转和光照效果。
 
-[![Watch the video](./Demo-Pic-1.png)](./Running-Demo.mp4)
-*Click the thumbnail above to play `demo_run.mp4`*
+[![Watch the video]](./Demo-GIF.gif)
 
 ---
 
