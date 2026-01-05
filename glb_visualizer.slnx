@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="glb_visualizer.vcxproj" Id="b6bb2e42-0093-4b24-97a8-edd777f7db93" />
+</Solution>
